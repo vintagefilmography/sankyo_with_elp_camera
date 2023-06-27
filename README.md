@@ -1,8 +1,11 @@
 # sankyo_with_elp_camera  
-This project is based on a Sankyo projector and the Panasonic HDC-HS9 camcorder.  
+
+![elp_12mm_lens](https://github.com/vintagefilmography/sankyo_with_elp_camera/assets/48537944/554805cf-1629-40a3-961b-dbabc2f4c8b9)
+
+This project is based on a Sankyo projector and ELP camera.  
 Parts:  
-Sankyo1000  
-Panasonic HDC-HS9 camcorder
+Sankyo1000 projector  
+The camera used is the usb ELP model ELP-USBFHD04H-FV. It uses an AR0330 sensor with 1080P resolution.
 Light
 https://www.amazon.com/dp/B098W63FJ5...roduct_details
 50mm FL lens
@@ -22,6 +25,8 @@ https://drive.google.com/file/d/1mbl...ew?usp=sharing
 Download the video because playing it from google drive is poor quality.
 This was scanned with the projector speed set to minimum which turns out to be just over 5 frames per second.  
 
+## Instructions
+
 Download "3-H.264 USB Camera Testing software for Windows-20230606T131020Z-001.zip" file to your local directory. Unzip it and go into it.  
 Then double click on H264_Preview.exe  
 A window will open uo and should look like as shown: 
@@ -32,14 +37,15 @@ The frame preview should be displayed. If you get the white screen only then the
 plug it back in.
 image
 
-Note: Make sure that there is no external light shining on the gate like a daylight frorm the eindow etc. Additional camera controls are available via options pulldown: image image and camera controls image
-These can be let as is. Under some conditions manual exposure and manual white balance may work better.
+Note: Make sure that there is no external light shining on the gate like a daylight from the window etc.   
+Additional camera controls are available via options pulldown: image image and camera controls image
+These can be left as is. Under some conditions manual exposure and manual white balance may work better.
 The best way is to experiment with the settings to achiveve best results. Some additional info:
 https://docs.arducam.com/UVC-Camera/Quick-Start-for-Different-Systems/Windows/
 
 Once all of this is set, run capture.
 image
-Set the destination file path. Make sure eto type the .avi after the file name.
+Set the destination file path. Make sure to type the .avi after the file name.
 image
 Click OK. Do not have to change the file allocation size.
 image
