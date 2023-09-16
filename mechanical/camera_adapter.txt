@@ -1,0 +1,9 @@
+mount dimensions:
+40.767	39.1668
+6.5278	4.976
+=================
+xdim = 34 mm
+ydim = 34 mm
+---------------
+
+cylinder = 27mm dia
