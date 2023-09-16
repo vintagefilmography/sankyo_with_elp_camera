@@ -5,25 +5,20 @@
 This project is based on a Sankyo projector and ELP camera.  
 Parts:  
 Sankyo1000 projector  
-The camera used is the usb ELP model ELP-USBFHD04H-FV. It uses an AR0330 sensor with 1080P resolution.
-Light
-https://www.amazon.com/dp/B098W63FJ5...roduct_details
-50mm FL lens
-https://www.seeedstudio.com/8MP-50mm...ra-p-4624.html
-New belt (made my own)
-2 day of work to get the setup running.
-Here is the result:
-https://drive.google.com/file/d/1i-V...usp=share_link
-Actually quite decent for a simple setup like this. Nice colors and almost 0 flicker.
-The projector speed adjustment has a nice range and very easy to get close to 0 flicker.
-Here is the comparison Hawkeye
-https://drive.google.com/file/d/1yPM...usp=share_link
-Obviously Hawkeye is quite a bit more money and more work to setup and much longer scan time...
+The camera used is the usb ELP model ELP-USBFHD04H-FV. It uses an AR0330 sensor with 1080P resolution.  
+Light  
+https://www.amazon.com/dp/B098W63FJ5...roduct_details  
+Here is the result:  
+[https://drive.google.com/file/d/1i-V...usp=share_link](https://drive.google.com/file/d/1_k86P1xBqTre0maZQDL-aEWelFFEkU7V/view?usp=sharing)  
 
-Replaced the ELP lens that came with the camera with the Imaging Source 12mm lens and the results are much better.
-https://drive.google.com/file/d/1mbl...ew?usp=sharing
-Download the video because playing it from google drive is poor quality.
-This was scanned with the projector speed set to minimum which turns out to be just over 5 frames per second.  
+This was scanned with the projector speed set to minimum which turns out to be around 7 frames per second.  
+
+## Projector Mods
+Replace the lamap with the LED light. You will have to 3D print the lamp bracket from the mechanical folder here.
+It consists of two parts.
+Print the camera adapter and attach it to the camera using 2mm screws and nuts.
+Print the trigger clip.
+Install the trigger board. The board can be obtained.
 
 ## Instructions
 
