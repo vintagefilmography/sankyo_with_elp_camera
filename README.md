@@ -25,7 +25,12 @@ Print the camera adapter and attach it to the camera using 2mm screws and nuts.
 Remove the old lens by pulling out on the focus knob (spring loaded) and by sliding the lensout. 
 Slide the ecamera assembly into the lens holder. Make sure to pull out on the focus knob during the process.
 If the camera fit is too tight then just send the adapter cylinder with sand paper.  
-Make sure thatt the part is cleaned dout properly after the process.  
+Make sure that the part is cleaned up properly after the process.
+
+Install 150 Ohm 100W resistor in series with the rheostat slider to prevent the rheostat from overheating  
+at low speeds.  
+![image](https://github.com/vintagefilmography/sankyo_with_elp_camera/assets/48537944/65d95deb-7ef1-4ed7-8e5c-74b0ffb0ea51)  
+
 Print the trigger clip.
 ![image](https://github.com/vintagefilmography/sankyo_with_elp_camera/assets/48537944/d1b65001-4008-4c6a-a58f-f7e946794a0c)  
 The trigger clip shaps onto the shutter wheel shaft as illustrated below.  
