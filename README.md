@@ -37,7 +37,8 @@ If you decide to make your own then send a message to Stan for the schematic inf
 Connect the Arduino to the triggeer board.  
 ![image](https://github.com/vintagefilmography/sankyo_with_elp_camera/assets/48537944/83f7389f-189d-4bb6-b61d-45b5ed046067)  
 Slide the arduino from the front of the unit through the heatshield cutout towards the back of the unit.  
-![image](https://github.com/vintagefilmography/sankyo_with_elp_camera/assets/48537944/8bda40eb-59da-433f-9c1a-64bef76344b8)  
+![image](https://github.com/vintagefilmography/sankyo_with_elp_camera/assets/48537944/4fb47ae7-2caf-4e99-84d6-8f7b814d679e)  
+
 Align the trigger tab with the optocoupler bt sliding the trigger clip along the shaft.  
 Additional trigger advance adjustment will be needed later.  
 Mount the ardduino board in the top section of the unit just underneath the termnal strip.  
