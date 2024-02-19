@@ -61,13 +61,13 @@ since this could cause random mouse clicks.
 Run the cinecam program by executing the .exe file in the release directory.  
 
 
-## Instructions
+## Instructions for output video capture
 Download cinecamv3.zip sw from here:  
-https://drive.google.com/file/d/1sXQqYeeWrg85pbk6M5UWy_5RsJAFmLkf/view?usp=sharing  
+https://drive.google.com/file/d/1sXQqYeeWrg85pbk6M5UWy_5RsJAFmLkf/view?usp=sharing   
 Run the .exe file in release dir.  
 The main window will open.   
 Set camera selection to 0 or 1 depending on your system. Have to move the slider to the right until the numbers show up.  
-Then back off the slider to get the roght selection.  
+Then back off the slider to get the right selection.  
 Set fps to 18.
 Set the output file destination.
 Set width to 1500    Makae sure not to make mistakes here. Backspace dodes not work. Restart program if necessary.  
@@ -81,6 +81,26 @@ That shouldd give you a nice low FPS range 5-10 FPS.
 Once done with the capture disconneect the arduino to prevent the mouse clicks. 
 Click the Stop button. Make sure not to click on the Start button. That wowuld erase output file.
 Once you click on the Stop button, rename the output file and  then you are done. 
+
+## Instructions for output images capture
+Download cinecamV3_images.zip sw from here:  
+https://drive.google.com/file/d/1sXQqYeeWrg85pbk6M5UWy_5RsJAFmLkf/view?usp=sharing   
+Run the .exe file in release dir.  
+The main window will open.   
+Set camera selection to 0 or 1 depending on your system. Have to move the slider to the right until the numbers show up.  
+Then back off the slider to get the right selection.  
+Set fps to 18. Not used in image mode.
+Set the output file destination. This entry contains the path to the images prefix. I.e. C:\capture\pics  
+will generatate pict1,pict2,pict3,... image sequence. You can change this to suit your needs.  
+Set width to 1500    Makae sure not to make mistakes here. Backspace dodes not work. Restart program if necessary.  
+Set height to 1000 Same as above. Backspace edoes not work.  
+Note that this setting works for the ELP cameras but may need to be changes for other camera types.  
+Press Start. The preview window will open up. Click Capture button.  
+Leave the cursor on the capture button and run the projector on lowest speed.  
+Increase the projector speed until the app strats missing the fames.  
+Then, back off a alittle bit.  
+Once done with the capture disconneect the arduino to prevent the mouse clicks. 
+Click the Stop button. Not reequired in this mode.
 
 Postprocessing
 
