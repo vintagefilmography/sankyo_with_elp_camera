@@ -16,7 +16,7 @@ This was scanned with the projector speed set to minimum which turns out to be a
 ## Projector Mods
 The 3 blade shutter wheel has to be removed. This is a bit involved project.
 Refer to the following page for insstructions.  
-https://github.com/vintagefilmography/Sankyo_shutter_wheel_removal
+https://github.com/vintagefilmography/Sankyo_shutter_wheel_removal  
 https://github.com/vintagefilmography/Sankyo_gatemask_removal_v1  
 Read both instructions and replace the gate mask once the shutter assembly is out.  
 The heat shield and the fan shroud also have to be removed to provide enough space for the trigger components.  
