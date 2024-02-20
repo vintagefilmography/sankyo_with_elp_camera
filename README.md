@@ -14,7 +14,11 @@ Here is the result:
 This was scanned with the projector speed set to minimum which turns out to be around 7 frames per second.  
 
 ## Projector Mods
-The 3 blade shutter wheel has to be removed. This is a bit involved project and will not be detailed here at this time.
+The 3 blade shutter wheel has to be removed. This is a bit involved project.
+Refer to the following page for insstructions.  
+https://github.com/vintagefilmography/Sankyo_shutter_wheel_removal
+https://github.com/vintagefilmography/Sankyo_gatemask_removal_v1  
+Read both instructions and replace the gate mask once the shutter assembly is out.  
 The heat shield and the fan shroud also have to be removed to provide enough space for the trigger components.  
 Do not throw out any of the screws, you will need them later.
 Replace the lamap with the LED light. You will have to 3D print the lamp bracket from the mechanical folder here.
@@ -84,7 +88,7 @@ Once you click on the Stop button, rename the output file and  then you are done
 
 ## Instructions for output images capture
 Download cinecamV3_images.zip sw from here:  
-https://drive.google.com/file/d/1sXQqYeeWrg85pbk6M5UWy_5RsJAFmLkf/view?usp=sharing   
+https://drive.google.com/drive/folders/1x1AzFv1zaV0cyByz2hpzGCwbrDphzmOL?usp=sharing   
 Run the .exe file in release dir.  
 The main window will open.   
 Set camera selection to 0 or 1 depending on your system. Have to move the slider to the right until the numbers show up.  
