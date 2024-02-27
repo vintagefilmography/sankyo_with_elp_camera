@@ -5,9 +5,11 @@
 This project is based on a Sankyo projector and ELP camera.  
 Parts:  
 Sankyo1000 projector  
-The camera used is the usb ELP model ELP-USBFHD04H-FV. It uses an AR0330 sensor with 1080P resolution.  
+The camera used is the usb ELP model ELP-USBFHD04H-FV. It uses an AR0330 sensor with 1080P resolution. 
+Camera:  
+https://www.amazon.com/gp/product/B01E8OX212/  
 Light  
-https://www.amazon.com/ULANZI-Waterproof-Lighting-Dimmable-Photography/dp/B098W63FJ5 
+https://www.amazon.com/ULANZI-Waterproof-Lighting-Dimmable-Photography/dp/B098W63FJ5/  
 Here is the result:  
 [https://drive.google.com/file/d/1i-V...usp=share_link](https://drive.google.com/file/d/1_k86P1xBqTre0maZQDL-aEWelFFEkU7V/view?usp=sharing)  
 
